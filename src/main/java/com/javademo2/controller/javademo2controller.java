@@ -14,7 +14,7 @@ public class javademo2controller {
 @GetMapping("/cnames")
 public String getcnames()
 {
-	return "Its working";
+	return "Happy Birthday Ayush Billa";
 	}
 
 }
